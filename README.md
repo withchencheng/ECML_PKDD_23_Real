@@ -25,7 +25,7 @@ Except for pubmed, the classes for all the other datasets are close to be balanc
 
 
 ## Run the AL Process
-Change to `real` dir, then execute
+Change to `real` dir under this repository, then execute
 ```bash
 python runbg_agnews.py
 ```
