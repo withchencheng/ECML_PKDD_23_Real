@@ -20,6 +20,14 @@ Specify data dir at `runbg.py` in `class Config`
    self.data_dir = f'{home_dir}data/AL/data3/{task}/'
 ```
 
+Except for pubmed, the classes for all the other datasets are close to be balanced.
+
+
+
 ## Run the AL Process
+Change to `real` dir, then execute
+```bash
+python runbg_agnews.py
+```
 
 
