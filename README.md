@@ -15,6 +15,11 @@ Contact: Cheng Chen (chchen [at] ruc.edu.cn)
 
 ## Data Preparation 
 
+Specify data dir at `runbg.py` in `class Config`
+```
+   self.data_dir = f'{home_dir}data/AL/data3/{task}/'
+```
+
 ## Run the AL Process
 
 
