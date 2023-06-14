@@ -2,7 +2,7 @@
 Code for our ECML/PKDD 2023 Paper:
   Real: A Representative Error-Driven Approach for Active Learning
 
-Please cite the following work if you find the code useful.
+Please cite our work if you find the code useful.
 ```
 @inproceedings{chencheng2023Real,
 	Author = {Cheng Chen, Yong Wang, Lizi Liao, Yueguo Chen, Xiaoyong Du},
